@@ -10,4 +10,4 @@ For more details, please visit each folder for a individual readme
 
 Grade:A
 
-I go by the name "Alvin" in this project
+I go by the name "Alvin" in these projects
